@@ -1,0 +1,17 @@
+.message {
+  width: 80%;
+  height: 100%;
+  margin: 20px auto;
+  justify-content: space-between;
+  /* border: 1px solid red; */
+  box-shadow: 1px 1px 10px #fff;
+}
+.line {
+  width: 2px;
+  height: 100%;
+  background-color: black;
+  display: inline-block;
+}
+.user_message img {
+  max-width: 100px;
+}
